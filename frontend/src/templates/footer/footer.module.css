@@ -1,0 +1,24 @@
+.footer {
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+    height: 75px;
+    width: 100vw;
+    align-items: center;
+}
+
+.copyright {
+    margin: 10px 35px;
+}
+
+.SocialMedia {
+    display: flex;
+    justify-content: space-between;
+    width: 150px;
+    list-style: none;
+    margin: 10px 35px;
+}
+
+.socialMediaIcon {
+    width: 25px;
+}

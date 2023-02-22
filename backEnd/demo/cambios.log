@@ -1,0 +1,74 @@
+[2023-02-17 12:03:05] [ INFO ] [CategoriaService:26] Se inicio una operacion de guardado de la categoria con titulo Hola
+[2023-02-17 12:03:09] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 1
+[2023-02-17 12:03:12] [ INFO ] [CategoriaService:26] Se inicio una operacion de guardado de la categoria con titulo Hola
+[2023-02-17 12:03:18] [ INFO ] [CategoriaService:42] Se inicio una operacion de listado de categorias 
+[2023-02-17 12:03:28] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 1
+[2023-02-17 12:03:28] [ INFO ] [CategoriaService:31] Se inicio una operacion de actualizado de categoria con ID= 1
+[2023-02-17 12:03:43] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 2
+[2023-02-17 12:03:43] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 2
+[2023-02-17 12:03:43] [ WARN ] [CategoriaService:50] Se realizo una operacion de eliminado de categoria con id 2
+[2023-02-21 10:40:38] [ INFO ] [CategoriaService:26] Se inicio una operacion de guardado de la categoria con titulo depto
+[2023-02-21 10:42:12] [ INFO ] [CategoriaService:26] Se inicio una operacion de guardado de la categoria con titulo depto
+[2023-02-21 10:44:54] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 1
+[2023-02-21 10:46:38] [ INFO ] [CategoriaService:42] Se inicio una operacion de listado de categorias 
+[2023-02-21 10:47:04] [ INFO ] [CategoriaService:26] Se inicio una operacion de guardado de la categoria con titulo depto
+[2023-02-21 10:47:04] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 1
+[2023-02-21 10:47:04] [ INFO ] [CategoriaService:42] Se inicio una operacion de listado de categorias 
+[2023-02-21 10:47:58] [ INFO ] [CategoriaService:26] Se inicio una operacion de guardado de la categoria con titulo depto
+[2023-02-21 10:47:59] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 1
+[2023-02-21 10:47:59] [ INFO ] [CategoriaService:42] Se inicio una operacion de listado de categorias 
+[2023-02-21 10:50:24] [ INFO ] [CategoriaService:31] Se inicio una operacion de actualizado de categoria con ID= 1
+[2023-02-21 10:50:24] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 1
+[2023-02-21 10:51:19] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 1
+[2023-02-21 10:51:19] [ WARN ] [CategoriaService:50] Se realizo una operacion de eliminado de categoria con id 1
+[2023-02-21 10:51:19] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 1
+[2023-02-21 10:52:05] [ INFO ] [CategoriaService:42] Se inicio una operacion de listado de categorias 
+[2023-02-21 10:52:21] [ INFO ] [CategoriaService:26] Se inicio una operacion de guardado de la categoria con titulo depto
+[2023-02-21 10:52:21] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 1
+[2023-02-21 10:52:21] [ INFO ] [CategoriaService:42] Se inicio una operacion de listado de categorias 
+[2023-02-21 10:52:22] [ INFO ] [CategoriaService:31] Se inicio una operacion de actualizado de categoria con ID= 1
+[2023-02-21 10:52:22] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 1
+[2023-02-21 10:52:22] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 1
+[2023-02-21 10:53:43] [ INFO ] [CategoriaService:26] Se inicio una operacion de guardado de la categoria con titulo Casa de lujo
+[2023-02-21 10:55:19] [ INFO ] [CategoriaService:26] Se inicio una operacion de guardado de la categoria con titulo Casa de lujo
+[2023-02-21 10:55:39] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 1
+[2023-02-21 10:56:09] [ INFO ] [CategoriaService:26] Se inicio una operacion de guardado de la categoria con titulo depto
+[2023-02-21 10:56:09] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 1
+[2023-02-21 10:56:09] [ INFO ] [CategoriaService:42] Se inicio una operacion de listado de categorias 
+[2023-02-21 10:56:09] [ INFO ] [CategoriaService:31] Se inicio una operacion de actualizado de categoria con ID= 1
+[2023-02-21 10:56:09] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 1
+[2023-02-21 10:56:09] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 1
+[2023-02-21 10:56:09] [ WARN ] [CategoriaService:50] Se realizo una operacion de eliminado de categoria con id 1
+[2023-02-21 10:56:09] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 1
+[2023-02-21 10:59:09] [ INFO ] [CategoriaService:26] Se inicio una operacion de guardado de la categoria con titulo depto
+[2023-02-21 10:59:09] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 1
+[2023-02-21 10:59:09] [ INFO ] [CategoriaService:42] Se inicio una operacion de listado de categorias 
+[2023-02-21 10:59:09] [ INFO ] [CategoriaService:31] Se inicio una operacion de actualizado de categoria con ID= 1
+[2023-02-21 10:59:09] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 1
+[2023-02-21 10:59:09] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 1
+[2023-02-21 10:59:09] [ WARN ] [CategoriaService:50] Se realizo una operacion de eliminado de categoria con id 1
+[2023-02-21 10:59:09] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 1
+[2023-02-22 11:14:23] [ INFO ] [CategoriaService:26] Se inicio una operacion de guardado de la categoria con titulo Casa de lujo
+[2023-02-22 11:18:38] [ INFO ] [CategoriaService:26] Se inicio una operacion de guardado de la categoria con titulo Casa de lujo
+[2023-02-22 11:18:40] [ INFO ] [CategoriaService:26] Se inicio una operacion de guardado de la categoria con titulo Casa de lujo
+[2023-02-22 11:18:40] [ INFO ] [CategoriaService:26] Se inicio una operacion de guardado de la categoria con titulo Casa de lujo
+[2023-02-22 11:18:41] [ INFO ] [CategoriaService:26] Se inicio una operacion de guardado de la categoria con titulo Casa de lujo
+[2023-02-22 11:23:28] [ INFO ] [CategoriaService:26] Se inicio una operacion de guardado de la categoria con titulo Casa de lujo
+[2023-02-22 11:23:31] [ INFO ] [CategoriaService:26] Se inicio una operacion de guardado de la categoria con titulo Casa de lujo
+[2023-02-22 11:23:32] [ INFO ] [CategoriaService:26] Se inicio una operacion de guardado de la categoria con titulo Casa de lujo
+[2023-02-22 11:24:25] [ INFO ] [CategoriaService:26] Se inicio una operacion de guardado de la categoria con titulo depto
+[2023-02-22 11:24:25] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 1
+[2023-02-22 11:24:25] [ INFO ] [CategoriaService:42] Se inicio una operacion de listado de categorias 
+[2023-02-22 11:24:25] [ INFO ] [CategoriaService:31] Se inicio una operacion de actualizado de categoria con ID= 1
+[2023-02-22 11:24:25] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 1
+[2023-02-22 11:24:25] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 1
+[2023-02-22 11:24:25] [ WARN ] [CategoriaService:50] Se realizo una operacion de eliminado de categoria con id 1
+[2023-02-22 11:24:25] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 1
+[2023-02-22 11:50:57] [ INFO ] [CategoriaService:26] Se inicio una operacion de guardado de la categoria con titulo depto
+[2023-02-22 11:50:57] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 1
+[2023-02-22 11:50:57] [ INFO ] [CategoriaService:42] Se inicio una operacion de listado de categorias 
+[2023-02-22 11:50:58] [ INFO ] [CategoriaService:31] Se inicio una operacion de actualizado de categoria con ID= 1
+[2023-02-22 11:50:58] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 1
+[2023-02-22 11:50:58] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 1
+[2023-02-22 11:50:58] [ WARN ] [CategoriaService:50] Se realizo una operacion de eliminado de categoria con id 1
+[2023-02-22 11:50:58] [ INFO ] [CategoriaService:36] Se inicio una operacion de busqueda de categoria con ID 1
